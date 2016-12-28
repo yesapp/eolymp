@@ -32,4 +32,5 @@
 *.app
 
 # xcodeproj
-eolymp.xcodeproj
+eolymp.xcodeproj/
+development/
